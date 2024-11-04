@@ -1,2 +1,2 @@
 
-## [Log](/log.ipynb)
+## love math
